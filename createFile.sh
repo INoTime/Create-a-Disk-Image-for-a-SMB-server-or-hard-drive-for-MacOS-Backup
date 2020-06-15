@@ -11,4 +11,4 @@ cd /
 sudo hdiutil create -size ${size_v}g -volname $name_v $dest_v$name_v.dmg -fs HFS+
 sudo hdiutil attach $dest_v$name_v.dmg
 
-sudo tmutil setdestination Volumes/$name_v 
+sudo tmutil setdestination /Volumes/$name_v
