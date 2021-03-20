@@ -1,4 +1,4 @@
-This file is to create automatically a blank disk-image to use it as an TimeMachine Backup Disk. 
+This file is to create automatically a blank disk-image to use it as a TimeMachine Backup Disk. 
 After the script is finished you can use it on a SMB server or on a external drive. 
 
 Open the script in your directory (./createFile.sh). 
